@@ -1,0 +1,1 @@
+./data/train_toy_data/dea19dc6-bbca-11e8-b2bc-ac1f6b6435d0_blue.png'
